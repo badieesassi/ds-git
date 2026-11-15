@@ -10,3 +10,4 @@ git
 github
 Execution :
 ouvrir le fichier main.py dans le vs code puis cliquer sur run python file .
+le projet realisee avec python et git
